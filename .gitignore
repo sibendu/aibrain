@@ -1,0 +1,13 @@
+*.txt
+*.properties*
+*.yaml*
+__pycache__
+.venv
+.venvubuntu
+.venv*
+.virtualenv
+flagged
+.idea
+.ipynb_checkpoints
+nohup
+.env
